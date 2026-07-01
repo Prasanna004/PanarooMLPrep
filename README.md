@@ -84,9 +84,9 @@ Machine Learning Ready Dataset
 Clone the repository
 
 ```bash
-git clone https://github.com/Prasanna004/panaroo-preprocessor.git
+git clone https://github.com/Prasanna004/panarooMLPrep.git
 
-cd panaroo-preprocessor
+cd panarooMLPrep
 ```
 
 Install dependencies
@@ -100,7 +100,7 @@ or
 ```bash
 conda env create -f environment.yml
 
-conda activate panaroo-preprocessor
+conda activate panarooMLPrep
 ```
 
 ---
