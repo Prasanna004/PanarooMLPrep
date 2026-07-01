@@ -30,25 +30,23 @@ This toolkit standardizes gene annotations, removes low-information genes, merge
 
 ## Repository Structure
 
-```
-panaroo-preprocessor/
+```text
+PanarooMLPrep/
 │
 ├── scripts/
 │   ├── panaroo_clean.py
 │   └── prepare_ml_features.py
 │
-├── docs/
-│
 ├── example/
+│   ├── gene_presence_absence.csv
+│   ├── gene_presence_absence.Rtab
+│   ├── Panaroo_GWAS_results.csv
+│   └── README.md
 │
-├── tests/
-│
-├── requirements.txt
-├── environment.yml
+├── .gitignore
 ├── LICENSE
 └── README.md
 ```
-
 ---
 
 # Workflow
